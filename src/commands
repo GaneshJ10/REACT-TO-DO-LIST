@@ -1,0 +1,5 @@
+PS D:\projects\REACT-TO-DO-LIST> npx json-server -p 3500 -w data/db.json
+
+npm install -g expo-cli --force
+
+ npm install react-scripts@latest
